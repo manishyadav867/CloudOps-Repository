@@ -1,0 +1,17 @@
+//*************************************************************************************
+// Name             : CaseProcessingTest
+// Description      : Class to increase test coverage of "CaseProcessing"
+// Created By       : Nilanjana Mukherjee
+// Created Date     : 06/22/2015
+//TestCoverage      : 81%
+//TestCoverage      : 81 %
+// ************************************************************************************
+@isTest(seealldata=true)
+private class CaseProcessingTest17
+{ 
+        public CaseProcessingTest17(){
+                
+                //Updating from git
+        }
+        
+}
