@@ -1,4 +1,4 @@
-<apex:page controller="CreateCalendarEventController" sideBar="false">
+<apex:page  sideBar="false">
 	<apex:outputPanel id="errorPanel">	
 		<apex:pageMessages />
 	</apex:outputPanel>	
