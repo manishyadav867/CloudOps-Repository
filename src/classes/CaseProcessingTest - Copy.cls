@@ -7,11 +7,11 @@
 //TestCoverage      : 81 %
 // ************************************************************************************
 @isTest(seealldata=true)
-private class CaseProcessingTest6
+private class CaseProcessingTest
 { 
-        public CaseProcessingTest6(){
+        public CaseProcessingTest(){
                 
-                //Updating from git
+                //Updating from git commit sdfsdfsd
         }
         
 }
